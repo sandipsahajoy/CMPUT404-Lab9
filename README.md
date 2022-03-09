@@ -1,4 +1,4 @@
-# authentication-lab
+# CMPUT404-Lab9
 
 University of Alberta, CMPUT 404 Lab 9 starter repository. Use the different
 HTTP authentication schemes provided in Django Rest Framework.
